@@ -2,11 +2,11 @@
   "autodeskProduct": "Fusion",
   "type": "addin",
   "id": "6f1d8d3e-9b7a-4c52-a1e4-5d0c7b2f9a31",
-  "author": "VaseForge contributors",
+  "author": "P1578",
   "description": {
     "": "Parametric vases, containers and lampshades with native, editable geometry for 3D printing."
   },
-  "version": "0.1.0",
+  "version": "0.1.5",
   "runOnStartup": false,
   "supportedOS": "windows|mac",
   "editEnabled": true
